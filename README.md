@@ -43,4 +43,4 @@ programming, problem-solving and development skills.
 ## 🤝 Let's Connect
 
 - LinkedIn: [Your LinkedIn profile URL]
-- GitHub: https://github.com/tanishkarahejaa
+- GitHub: https://github.com/sushantbisht
